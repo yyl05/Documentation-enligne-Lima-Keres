@@ -3,7 +3,6 @@
 Ce dépôt contient le guide technique complet pour la gestion des **Mini Mac** du CPNV. 
 
 * **Auteurs :** Emel Keres, Yuri Lima
-* **Date :** 23/04/2026
 
 ---
 
