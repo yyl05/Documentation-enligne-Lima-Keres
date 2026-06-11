@@ -8,11 +8,11 @@ Ce dépôt contient le guide technique complet pour la gestion des **Mini Mac** 
 
 ## Ce que contient le document
 
-* ** Spécifications Matérielles :** Fiches techniques du **Mini Mac Gris Clair** (Puce M2 / Apple Silicon) et du **Mini Mac Gris Foncé** (Processeur Intel / Modèle A1993).
-* ** Gestion des Utilisateurs :** Tutos pas à pas pour créer, modifier, administrer ou supprimer des comptes, ainsi que l'activation du compte `root`.
-* ** Stockage :** Choix des formats de disques (APFS, HFS+, ExFAT) et méthode pour monter/démonter un volume.
-* ** Installation & Dual Boot :** Création d’une clé bootable pour macOS Ventura et installation de Windows via l’Assistant Boot Camp.
-* ** Terminal & Commandes :** Aide-mémoire des commandes de base (`ls`, `cp`, `mv`, `rm`, `chmod`, `chown`).
+* **Spécifications Matérielles :** Fiches techniques du **Mini Mac Gris Clair** (Puce M2 / Apple Silicon) et du **Mini Mac Gris Foncé** (Processeur Intel / Modèle A1993).
+* **Gestion des Utilisateurs :** Tutos pas à pas pour créer, modifier, administrer ou supprimer des comptes, ainsi que l'activation du compte `root`.
+* **Stockage :** Choix des formats de disques (APFS, HFS+, ExFAT) et méthode pour monter/démonter un volume.
+* **Installation & Dual Boot :** Création d’une clé bootable pour macOS Ventura et installation de Windows via l’Assistant Boot Camp.
+* **Terminal & Commandes :** Aide-mémoire des commandes de base (`ls`, `cp`, `mv`, `rm`, `chmod`, `chown`).
 
 ---
 
