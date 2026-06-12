@@ -21,3 +21,6 @@ Ce dépôt contient le guide technique complet pour la gestion des **Mini Mac** 
 1. **Ouvre la Table des matières** (en début de doc) pour trouver directement la page dont tu as besoin.
 2. **Suis les captures d'écran** pour ne pas te tromper dans les menus graphiques de macOS.
 3. **Copie-colle les commandes** directement dans ton Terminal pour la clé bootable ou les permissions.
+
+## Vidéo présentation
+le lien de la vidéo : https://youtu.be/0j7Z3-kCrPU 
